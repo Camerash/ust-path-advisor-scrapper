@@ -1,0 +1,19 @@
+{
+  "name": "ust-path-advisor-scrapper",
+  "version": "1.0.0",
+  "description": "A data scrapper for UST Path Advisor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camerash",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.0.0",
+    "gm": "^1.23.1",
+    "request": "^2.88.0",
+    "requestretry": "^3.1.0",
+    "retry-request": "^4.0.0",
+    "sharp": "^0.21.1"
+  }
+}
